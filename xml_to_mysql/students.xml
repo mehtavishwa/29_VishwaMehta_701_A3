@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>1</id>
+    <name>Unnati Jariwala</name>
+    <email>uj@gmail.com</email>
+    <age>22</age>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Utsav Jariwala</name>
+    <email>utsav9.jariwala@gmail.com</email>
+    <age>27</age>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Isha Jariwala</name>
+    <email>isha@gmail.com</email>
+    <age>23</age>
+  </student>
+</students>
